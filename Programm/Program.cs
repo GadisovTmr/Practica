@@ -18,5 +18,5 @@ for (int i = 0; i < resultText.Length; i++)
 }
 for (int i = 0; i < resultText.Length; i++)
 {
-    Console.Write($"{tempText[i]} , ");
+    Console.Write($"{resultText[i]} , ");
 }
